@@ -1,6 +1,6 @@
 # test_pixel
 
-A new Flutter project.
+trying bloc for the first time.
 
 ## Getting Started
 
